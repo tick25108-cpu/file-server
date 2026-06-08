@@ -1,0 +1,1 @@
+export const sessionCheck = () => true;
